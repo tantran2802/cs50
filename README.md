@@ -13,4 +13,4 @@ Weekly Overview
 
 Link to play the game that I created:
 
-* Scratch [Ping Pong Mini Game] (https://scratch.mit.edu/projects/969304688)
+* Scratch [Ping Pong Mini Game](https://scratch.mit.edu/projects/969304688)
