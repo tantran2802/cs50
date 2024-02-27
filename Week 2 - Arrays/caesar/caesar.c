@@ -6,7 +6,7 @@
 bool validInput(string x);
 int main(int argc, string argv[])
 {
-    if (argc != 2 || !validInput(argv[1])) // Doesn't allor more than 2 commands or
+    if (argc != 2 || !validInput(argv[1])) // Doesn't allow more than 2 commands or
         {
             printf("Usage: ./caesar key\n"); // Error message
             return 1; // Asks again for input
@@ -49,5 +49,5 @@ bool validInput(string x)
             return true;   
         }
     }
-    return false;
+    return true;
 }
